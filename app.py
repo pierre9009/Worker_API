@@ -5,7 +5,7 @@ import socket
 from dotenv import load_dotenv
 import os
 
-load_dotenv(dotenv_path='/app/.env')
+load_dotenv()
 
 app = Flask(__name__)
 
