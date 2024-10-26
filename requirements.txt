@@ -2,3 +2,4 @@ flask
 psutil
 wheel
 gunicorn
+python-dotenv
